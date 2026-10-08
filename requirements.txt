@@ -1,0 +1,40 @@
+# LLM & Orchestration
+langgraph>=0.2.0
+langchain-core>=0.3.0
+openai>=1.30.0
+
+# Data Models & Settings
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# HTTP & Scraping
+httpx>=0.27.0
+trafilatura>=1.8.0
+extruct>=0.17.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+playwright>=1.40.0
+
+# Deduplication & Fuzzy Matching
+rapidfuzz>=3.6.0
+thefuzz>=0.22.1
+
+# Email Verification & Network
+dnspython>=2.5.0
+email-validator>=2.1.0
+
+# Storage & Export
+pandas>=2.1.0
+openpyxl>=3.1.0
+
+# UI
+streamlit>=1.30.0
+
+# Utilities
+tenacity>=8.2.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+pytest-mock>=3.14.0

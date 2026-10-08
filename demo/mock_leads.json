@@ -1,0 +1,103 @@
+[
+  {
+    "company_name": "TiE Bangalore Startup Alpha",
+    "domain": "startupalpha.in",
+    "website_url": "https://startupalpha.in",
+    "emails": ["founders@startupalpha.in"],
+    "description": "AI-powered DevOps automation platform for cloud-native teams",
+    "location": "Bangalore, India",
+    "source_name": "directory_collector",
+    "source_url": "https://tie.org/bangalore/members",
+    "raw_data": {"type": "TiE member"}
+  },
+  {
+    "company_name": "CloudBeta Solutions",
+    "domain": "cloudbeta.io",
+    "website_url": "https://cloudbeta.io",
+    "emails": ["info@cloudbeta.io"],
+    "description": "Multi-cloud infrastructure management and cost optimization",
+    "location": "Mumbai, India",
+    "source_name": "github_collector",
+    "source_url": "https://github.com/cloudbeta"
+  },
+  {
+    "company_name": "DataForge Analytics",
+    "domain": "dataforge.co",
+    "website_url": "https://dataforge.co",
+    "emails": ["hello@dataforge.co", "raj@dataforge.co"],
+    "description": "Real-time data pipeline and analytics for SaaS companies",
+    "location": "Hyderabad, India",
+    "source_name": "reddit_collector",
+    "source_url": "https://reddit.com/r/startups/comments/abc123"
+  },
+  {
+    "company_name": "SecureStack Technologies",
+    "domain": "securestack.dev",
+    "website_url": "https://securestack.dev",
+    "emails": ["team@securestack.dev"],
+    "description": "Application security testing integrated into CI/CD pipelines",
+    "location": "Pune, India",
+    "source_name": "directory_collector",
+    "source_url": "https://nasscom.in/members"
+  },
+  {
+    "company_name": "Deployflow",
+    "domain": "deployflow.com",
+    "website_url": "https://deployflow.com",
+    "emails": ["contact@deployflow.com"],
+    "description": "Zero-downtime deployment platform for Kubernetes workloads",
+    "location": "San Francisco, US",
+    "source_name": "github_collector",
+    "source_url": "https://github.com/deployflow"
+  },
+  {
+    "company_name": "InfraMonk",
+    "domain": "inframonk.io",
+    "website_url": "https://inframonk.io",
+    "emails": [],
+    "description": "Infrastructure monitoring and alerting for DevOps teams",
+    "location": "Delhi, India",
+    "source_name": "osm_collector",
+    "source_url": "https://openstreetmap.org/node/98765"
+  },
+  {
+    "company_name": "TestPilot AI",
+    "domain": "testpilot.ai",
+    "website_url": "https://testpilot.ai",
+    "emails": ["demo@testpilot.ai"],
+    "description": "AI-powered test generation and regression testing",
+    "location": "Chennai, India",
+    "source_name": "reddit_collector",
+    "source_url": "https://reddit.com/r/SaaS/comments/xyz789"
+  },
+  {
+    "company_name": "KubeScale",
+    "domain": "kubescale.cloud",
+    "website_url": "https://kubescale.cloud",
+    "emails": ["sales@kubescale.cloud"],
+    "description": "Auto-scaling Kubernetes clusters based on predictive algorithms",
+    "location": "Bangalore, India",
+    "source_name": "directory_collector",
+    "source_url": "https://tie.org/bangalore/portfolio"
+  },
+  {
+    "company_name": "LogStream Labs",
+    "domain": "logstream.io",
+    "website_url": "https://logstream.io",
+    "emails": ["info@logstream.io"],
+    "description": "Real-time log aggregation and search for distributed systems",
+    "location": "Singapore",
+    "source_name": "github_collector",
+    "source_url": "https://github.com/logstream-labs"
+  },
+  {
+    "company_name": "Acme Consulting Group",
+    "domain": "acmeconsulting.com",
+    "website_url": "https://acmeconsulting.com",
+    "emails": ["contact@acmeconsulting.com"],
+    "description": "IT consulting and outsourcing for enterprise clients",
+    "location": "New York, US",
+    "source_name": "website_crawler",
+    "source_url": "https://acmeconsulting.com"
+  }
+]
